@@ -1,0 +1,6 @@
+[2024-04-20T09:10:46.089][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-04-20T09:10:46.096][INFO console] 32 (vertex/app/app.js 163:12) HTTP 服务器启动, 监听端口:  3000
+[2024-04-20T09:10:46.172][INFO console] 32 (app/libs/redis.js 14:10) Redis connected!
+[2024-04-20T09:10:46.202][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-04-20T09:11:26.524][INFO console] 32 (app/controller/User.js 12:14) 登录成功, IP: 104.245.33.99
+[2024-04-20T10:00:48.006][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
